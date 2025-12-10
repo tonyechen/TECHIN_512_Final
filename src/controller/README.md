@@ -10,11 +10,11 @@ Library Needed:
 Hardward requirement:
 - 1 Xiao ESP32C3
 - 1 Neopixel
-- 1 OLED screen
+- 1 SSD1306 OLED screen
 - 4 Push Buttons
 - 1 rotary encoder
 - 1 switch
 - 1 3.7V LiPo Battery
-- 1 Accelerometer
+- 1 Accelerometer (ADXL 345)
 
 

@@ -4,9 +4,10 @@ Library Needed:
 
 Hardward requirement:
 - 1 QT Py ESP32-S3
-- 1 switch
+- 1 Switch
 - 1 9V Alkaline battery
-- 1 Accelerometer
+- 1 Accelerometer (ADXL 345)
 - 2 DC Motors
+- 1 Motor Driver
 
 
